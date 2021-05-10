@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "server": "True",
+    "local_uri": "mysql://root:Akansha25@localhost/punarjaniayurveda",
+    "prod_uri":"mysql://root:Akansha25@localhost/punarjaniayurveda",
+
+
+    "fb_url": "https://facebook.com/punarjaniayurveda",
+    "tw_url": "https://twitter.com/puarjaniayurveda",
+    "gt_url":"https://github.com/punarjaniayurveda",
+    "blog_name": "Punarjani Ayurveda",
+    "tag_line": "Panchkarma And Infertility Clinic",
+    "user_name": "akansha1757@gmail.com",
+    "password":"Prashant-31",
+    "sample_text": "this is a sample text . I am Akansha ",
+    "login_image":"login.svg",
+    "admin_user":"Akansha",
+    "admin_password": "Prashant-31",
+    "upload_location": "C:\\Users\\DELL\\Desktop\\Python101\\static",
+    "no_of_posts": 2
+  }
+}
